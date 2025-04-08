@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ranium04
 - 👀 I’m interested in animals, flowers, and food!
 - 🌱 I’m currently learning a bunch of stuff, all over
-- 💞️ I’m looking to collaborate on whatever is pretty cool
+- 💞️ I don't know much about coding... I'll admit!
 - 📫 How to reach me: just DM me, or something
-- ⚡ Fun fact: did you know you can't spell geraniums without ranim? :) 
+- ⚡ Fun fact: did you know you can't spell geranium without ranim? :) 
 
 <!---
 ranium04/ranium04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
